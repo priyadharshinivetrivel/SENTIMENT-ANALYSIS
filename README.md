@@ -68,4 +68,9 @@ The deliverable is a notebook illustrating the whole process. This notebook is s
 * Insights: The outputs of the analysis, such as interpretation and conclusion made from sentiment scores. This may include data visualization of the trends in sentiments or the top drivers of the sentiments.
 The challenge is made available by "CODTECH," presumably the organization or company sponsoring the internship. The photo also states that there will be a "Completion Certificate" once the end date of the internship comes.
 
+OUTPUT OF THE PICTURE:
 
+![Image](https://github.com/user-attachments/assets/99dc61a7-ba34-4ce1-8329-aed66f478b87)
+![Image](https://github.com/user-attachments/assets/13855044-a222-4f74-96d2-a0be1a83a8a5)
+![Image](https://github.com/user-attachments/assets/cc6e8adc-add8-45ae-ba7b-22687674922a)
+![Image](https://github.com/user-attachments/assets/2e455d08-3255-4163-bedb-afa39be28af0)
